@@ -6,7 +6,7 @@ Care for your virtual companion, play mini-games, earn rewards, unlock new frien
 
 ## 🌐 Live Demo
 
-🐾 **Try Pocket Pals here:** [Play Pocket Pals](https://krtyaka.github.io/pocket-pals-virtual-pet/)
+🐾 **Try Pocket Pals here:** [Play Pocket Pals](https://priyesh3003.github.io/pocket-pals-virtual-pet/)
 
 Explore your virtual pet, play mini-games, earn coins and XP, unlock new pets and accessories, and keep your pet happy!
 
